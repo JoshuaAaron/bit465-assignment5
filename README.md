@@ -46,7 +46,7 @@ Dog Delete/Update !
 ![Dog Add](dogs-DELETE.png)
 
 Add a New Dog Breed !
-![Dog Add](breedsd-POST.png)
+![Dog Add](breeds-POST.png)
 
 All Dog Breeds !
 ![Dog Add](breeds-GET.png)
